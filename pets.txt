@@ -4,3 +4,6 @@ mouse
 hamster
 goat
 cow
+Frog
+Fish
+Turtle
